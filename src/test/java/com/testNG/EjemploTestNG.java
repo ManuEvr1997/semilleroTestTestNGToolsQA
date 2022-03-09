@@ -33,6 +33,8 @@ public class EjemploTestNG
 	File rutaCarpeta = null;
 	GenerarReportePdf generarReportepdf;
 
+//comentario del primer commit	
+	
 	@BeforeClass
 	@Parameters({ "url", "url2", "url3", "rutaImagenReporte", "rutaOutut" })
 
